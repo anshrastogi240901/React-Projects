@@ -21,6 +21,10 @@ const DUMMY_EXPENSES = [
     amount: 450,
     date: new Date(2021, 5, 12),
   },
+  {id:'e4',
+  title:"Porsche",
+  amount: 300000,
+  date: new Date(2019,3,4),}
 ];
 function App() {
   const [expenses, setExpenses] = useState(DUMMY_EXPENSES);
