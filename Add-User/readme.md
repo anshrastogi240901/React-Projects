@@ -1,0 +1,1 @@
+In this app you can add user using his/her name and age. It uses form validation as well and gives the error in my custom error modals. Then, Displays the entered details as a list extracting it out of an array object.
