@@ -1,0 +1,1 @@
+This app consist of login system which uses form validation and localstorage in Js. I have also used useEffect react hook in this app to keep the uswr logged in it unless or until he/she logs out manually.
